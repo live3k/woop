@@ -1,0 +1,105 @@
+  
+h1{
+        background: -webkit-gradient(linear, left bottom,left top,color-stop(0.03, #336),color-stop(1, #FFF));, black;
+        -webkit-background-clip: text;
+        color: transparent;
+}
+
+img{
+    border-radius: 10px 10px 10px 10px;
+}
+.example2 {
+    
+    display:inline-block;   
+    position:relative;
+
+}
+.example2 span {
+    display:inline-block;
+    position:absolute;
+    top: 10px;
+    left: 181px;
+    
+    /* Оформление текста */
+    font-family:Arial, Helvetica, sans-serif;
+    /* color: #336;*/
+
+    /* Фон */
+ /*   background-color:rgba(0,0,0,.4);
+    padding:10px 30px;*/
+   background: -webkit-gradient(linear, left bottom,left top,color-stop(0.03, #336),color-stop(1, #fff));/*tut color, black;color-stop(0.03, #7dc8df),color-stop(1, #7d97df)*/
+        -webkit-background-clip: text;
+        color: transparent;
+  
+}
+/*h2{box-shadow: 15px 15px 5px -5px rgba(0,0,0,.2);} proba teni*/
+/*.example_beaty{
+        background: -webkit-gradient(linear, left bottom,left top,color-stop(0.8, #336),color-stop(1, #FFF));, black;
+        -webkit-background-clip: text;
+        color: transparent;
+    }*/
+
+.non {
+    display: inline-block;
+    position: absolute;
+    top: 65px;
+    right: 70px;
+    text-align: left;
+   background: -webkit-gradient(linear, left bottom,left top,color-stop(0.3, #336),color-stop(1, #FFF));, black;
+        -webkit-background-clip: text;
+        color: transparent;
+    }
+
+/*.n {
+    
+    top: 0px;
+    right: -636px;
+
+    }
+
+.n1 {
+
+    top: 20px;
+    right: -636px;
+   
+    }
+
+.n2 {
+  
+    top: 45px;
+    right: -636px;
+  
+    }
+
+.n3 {
+   
+    top: 65px;
+    right: -636px;
+  
+    }*/
+.nnn {
+
+    top: 0px;
+    right: -636px;
+    font-size: 15pt;
+       
+    display: inline-block;
+    position: absolute;
+    text-align: right;
+
+     background: -webkit-gradient(linear, left bottom,left top,color-stop(0.9, #336),color-stop(1, #FFF));, black;
+        -webkit-background-clip: text;
+        color: transparent;
+}
+/*.n,.n1,.n2,.n3{
+  
+    font-size: 15pt;
+       
+    display: inline-block;
+    position: absolute;
+    text-align: right;
+
+     background: -webkit-gradient(linear, left bottom,left top,color-stop(0.9, #336),color-stop(1, #FFF));, black;
+        -webkit-background-clip: text;
+        color: transparent;
+}*/
